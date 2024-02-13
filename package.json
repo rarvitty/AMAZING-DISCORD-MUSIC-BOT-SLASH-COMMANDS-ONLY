@@ -1,7 +1,7 @@
 {
   "name": "Fancy",
   "version": "2.0.8",
-  "description": "Fancy Music Coded by WhoFancy?",
+  "description": "Fancy Music Coded by Mel?",
   "main": "sharder.js",
   "scripts": {
     "start": "node ./src/sharder.js"
@@ -27,7 +27,7 @@
     "quick.db": "^9.1.7",
     "voucher-code-generator": "^1.3.0"
   },
-  "author": "WhoFancy?#0000",
+  "author": "melzinhatwt?#0000",
   "license": "MIT",
   "repository": {
     "type": "git",
