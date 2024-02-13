@@ -15,10 +15,10 @@ module.exports = client;
 
 /**
  * @INFO
- * Bot Coded by WhoFancy?#0000 | https://dsc.gg/allpbprivate
+ * Bot Coded by Mel | https://dsc.gg/kathood
  * @INFO
- * Work for Fancy Music | https://dsc.gg/allpbprivate
+ * Work for Kat Hood | https://dsc.gg/kathood
  * @INFO
- * Please Mention Us Fancy Music, When Using This Code!
+ * Please Mention Us Kat Hood, When Using This Bot!
  * @INFO
  */
